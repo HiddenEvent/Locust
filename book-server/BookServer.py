@@ -21,6 +21,6 @@ class BoardServer(HttpUser):
                 "categoryId": categoryId,
                 "name": name}
         # print(data)
-        self.client.post("/search", json=data, headers=headers)
+        self.client.post("/post/search", json=data, headers=headers)
 
 # locust -f .\book-server\BookServer.py
