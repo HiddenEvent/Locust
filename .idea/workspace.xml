@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93152667-12b1-47b5-82bb-abcf8e023d4b" name="Changes" comment="[add-post 성능 테스트]">
-      <change afterPath="$PROJECT_DIR$/ReadMe.md" afterDir="false" />
+    <list default="true" id="93152667-12b1-47b5-82bb-abcf8e023d4b" name="Changes" comment="[add-post]&#10;- 더미 게시판 데이터 추가용">
+      <change afterPath="$PROJECT_DIR$/book-server/BookServer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-server/스트레스_report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-server/스파이크_report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-server/인듀어런스_report.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-server/add-post.py" beforeDir="false" afterPath="$PROJECT_DIR$/book-server/add-post.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/ReadMe.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +71,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/pyCharm/projectRoot/Locust/book-server",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
@@ -77,6 +81,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\pyCharm\projectRoot\Locust\book-server" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\pyCharm\projectRoot\Locust\book-server" />
     </key>
@@ -129,7 +136,8 @@
       <workItem from="1704799639478" duration="246000" />
       <workItem from="1704799900628" duration="166000" />
       <workItem from="1705224484642" duration="46000" />
-      <workItem from="1705224543507" duration="2541000" />
+      <workItem from="1705224543507" duration="3775000" />
+      <workItem from="1705232118946" duration="2169000" />
     </task>
     <task id="LOCAL-00001" summary="[add-post 성능 테스트]">
       <option name="closed" value="true" />
@@ -139,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704801893902</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="[add-post]&#10;- 더미 게시판 데이터 추가용">
+      <option name="closed" value="true" />
+      <created>1705227494682</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705227494683</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,7 +186,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[add-post 성능 테스트]" />
-    <option name="LAST_COMMIT_MESSAGE" value="[add-post 성능 테스트]" />
+    <MESSAGE value="[add-post]&#10;- 더미 게시판 데이터 추가용" />
+    <option name="LAST_COMMIT_MESSAGE" value="[add-post]&#10;- 더미 게시판 데이터 추가용" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Locust$add_post.coverage" NAME="add-post Coverage Results" MODIFIED="1704801636702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book-server" />
